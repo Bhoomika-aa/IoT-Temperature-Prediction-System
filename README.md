@@ -1,3 +1,4 @@
+
 # 🌡️ IoT Temperature Prediction & Smart Alert System
 
 ## 📌 Overview
@@ -155,3 +156,6 @@ Replace them with placeholders before pushing to GitHub.
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub and feel free to contribute!
+=======
+# IoT-Temperature-Prediction-System
+Smart IoT system using ESP8266 + ML prediction
